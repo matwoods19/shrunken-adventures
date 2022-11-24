@@ -185,7 +185,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  jumpPower: 10
+  jumpPower: 250
   rb: {fileID: 244270333}
   canJump: 1
 --- !u!1 &640246721
